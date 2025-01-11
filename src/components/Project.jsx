@@ -43,7 +43,7 @@ const Projects = () => {
     },
     {
       title: "Projek 3",
-      description: "Projek portofolio ini saya kembangkan menggunakan React Native untuk memastikan performa yang optimal dan desain responsif yang sesuai dengan berbagai perangkat.",
+      description: "Projek portofolio ini saya kembangkan menggunakan React untuk memastikan performa yang optimal dan desain responsif yang sesuai dengan berbagai perangkat.",
       link: "#",
       image: "projek3.png"
     },
