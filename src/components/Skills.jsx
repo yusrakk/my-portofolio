@@ -27,14 +27,14 @@ const Skills = () => {
       icon: 'https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg',
     },
     {
-      title: 'MySQL',
-      description: 'MySQL adalah sistem manajemen basis data relasional.',
-      icon: 'https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg',
+      title: 'PostgreSQL',
+      description: 'PostgreSQL adalah sistem manajemen basis data relasional.',
+      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg',
     },
     {
-      title: 'PHP',
-      description: 'PHP adalah bahasa pemrograman untuk pengembangan web.',
-      icon: 'https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg',
+      title: 'Next.js',
+      description: 'Next.js adalah framework React untuk pengembangan web modern.',
+      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg',
     },
     {
       title: 'Tailwind CSS',
